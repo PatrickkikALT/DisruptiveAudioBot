@@ -4,6 +4,7 @@
 # Requirements <br>
 Node.js v22.12.0+ <br>
 discord.js <br>
+ffmpeg <br>
 
 # Instructions <br>
 First get a Discord Bot from the Discord Developer Portal, paste the token and application id into their respective fields in the config.json file.  <br>
